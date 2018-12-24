@@ -1,0 +1,45 @@
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\bin\Debug\Lesson5.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\bin\Debug\Lesson5.exe
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\bin\Debug\Lesson5.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\obj\Debug\Lesson5.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\obj\Debug\Lesson5_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\obj\Debug\Lesson5_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\obj\Debug\Lesson5.g.resources
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\obj\Debug\Lesson5.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\obj\Debug\Lesson5.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\obj\Debug\Lesson5.exe
+c:\users\user\documents\visual studio 2015\Projects\Lesson5\Lesson5\obj\Debug\Lesson5.pdb
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\bin\Debug\Lesson5.exe.config
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\obj\Debug\Lesson5.exe
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\obj\Debug\Lesson5.pdb
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\bin\Debug\Lesson5.exe
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\bin\Debug\Lesson5.pdb
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\obj\Debug\Lesson5.csprojResolveAssemblyReference.cache
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\obj\Debug\MainWindow.g.cs
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\obj\Debug\App.g.cs
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\obj\Debug\Lesson5_MarkupCompile.cache
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\obj\Debug\Lesson5_MarkupCompile.lref
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\obj\Debug\MainWindow.baml
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\obj\Debug\Lesson5.g.resources
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\obj\Debug\Lesson5.Properties.Resources.resources
+C:\ANDrey\GitHub_Repositories\WPF1\Lesson5\obj\Debug\Lesson5.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Lesson5\bin\Debug\Lesson5.exe.config
+C:\Users\User\Desktop\Lesson5\obj\Debug\Lesson5.exe
+C:\Users\User\Desktop\Lesson5\obj\Debug\Lesson5.pdb
+C:\Users\User\Desktop\lesson6\Lesson5\bin\Debug\Lesson5.exe.config
+C:\Users\User\Desktop\lesson6\Lesson5\obj\Debug\Lesson5.exe
+C:\Users\User\Desktop\lesson6\Lesson5\obj\Debug\Lesson5.pdb
+C:\Users\User\Desktop\lesson6\Lesson5\bin\Debug\Lesson5.exe
+C:\Users\User\Desktop\lesson6\Lesson5\bin\Debug\Lesson5.pdb
+C:\Users\User\Desktop\lesson6\Lesson5\obj\Debug\Lesson5.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\lesson6\Lesson5\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\lesson6\Lesson5\obj\Debug\App.g.cs
+C:\Users\User\Desktop\lesson6\Lesson5\obj\Debug\Lesson5_MarkupCompile.cache
+C:\Users\User\Desktop\lesson6\Lesson5\obj\Debug\Lesson5_MarkupCompile.lref
+C:\Users\User\Desktop\lesson6\Lesson5\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\lesson6\Lesson5\obj\Debug\Lesson5.g.resources
+C:\Users\User\Desktop\lesson6\Lesson5\obj\Debug\Lesson5.Properties.Resources.resources
+C:\Users\User\Desktop\lesson6\Lesson5\obj\Debug\Lesson5.csproj.GenerateResource.Cache
